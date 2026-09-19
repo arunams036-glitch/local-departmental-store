@@ -35,11 +35,7 @@ Customers can browse products, view product details, search for items, and find 
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Interactivity and functionality
 - **React.js** – Component-based frontend development
-
-## 🛠️ Tech Stack
-- Built with [Lovable](https://lovable.dev)
-- React-based frontend
-
+  Live Demo Link:https://ganeshstore.lovable.app
 ## 📂 Project Structure
 
 ```text
