@@ -62,4 +62,4 @@ M.S. Aruna
 3rd Year – Electrical and Electronics Engineering (EEE)
 📄 License
 This project is developed for educational and demonstration purposes.
-https://ganeshstore.lovable.app/[](url)
+live demo:https://ganeshstore.lovable.app
