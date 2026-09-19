@@ -36,6 +36,10 @@ Customers can browse products, view product details, search for items, and find 
 - **JavaScript** – Interactivity and functionality
 - **React.js** – Component-based frontend development
 
+## 🛠️ Tech Stack
+- Built with [Lovable](https://lovable.dev)
+- React-based frontend
+
 ## 📂 Project Structure
 
 ```text
@@ -62,7 +66,3 @@ M.S. Aruna
 3rd Year – Electrical and Electronics Engineering (EEE)
 📄 License
 This project is developed for educational and demonstration purposes.
-
-## 🛠️ Tech Stack
-- Built with [Lovable](https://lovable.dev)
-- React-based frontend
